@@ -34,7 +34,7 @@ Credit card fraud is a critical problem in the financial industry, with billions
 
 This project demonstrates how machine learning can provide adaptive, data-driven solutions that continuously improve fraud detection capabilities.
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Data Collection
 - **Dataset**: Credit Card Transactions Dataset (Kaggle)
